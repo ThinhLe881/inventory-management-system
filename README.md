@@ -1,1 +1,1 @@
-# Inventory Manager - Thinh Le
+# Inventory Management System - Thinh Le
